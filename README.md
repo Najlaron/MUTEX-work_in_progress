@@ -35,10 +35,10 @@ S:D950N
  -Confirm by pressing ENTER twice.
  
  
- #if each row starts with prefix such as ORF1a (which includes letter followed by number) you can add those words to be ingored out of mutations.
+ #if each row starts with prefix such as ORF1a (which includes letter followed by number) you can add those words to be ignored out of mutations.
  Write desired ignored words. 
- ! Warning: Don't input S, E, etc. as these words. All given words are replace in the whole text, which would cresult in ignoring every letter S and E
- #if nothing needs to be ingored, simply confirm empty input
+ ! Warning: Don't input S, E, etc. as these words. All given words are replaced in the whole text, which would result in ignoring every letter S and E
+ #if nothing needs to be ignored, simply confirm empty input
  
   -Confirm by pressing ENTER twice.
  
